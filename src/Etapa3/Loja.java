@@ -1,4 +1,4 @@
-package Etapa2;
+package Etapa3;
 
 public class Loja {
     private String nome;
